@@ -1,2 +1,2 @@
-# The-Logical-Memory-Communication-Example
-A new system
+# The Logical-Memory Communication Example
+A more efficient and optimized approach for CPU and RAM communication.
